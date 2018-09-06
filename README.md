@@ -1,0 +1,1 @@
+# Gatsby + Strapi front
